@@ -1,18 +1,6 @@
-Skunkworks&copy; Hello World java api.
+Skunkworks Hello World java api.
 ======================================
 
-#Markdown H1 test
-##Markdown H2 test
-###Markdown H3 test
+## Use `mvn clean package` to build the project and `java -jar [APPLICATION-NAME]` to run the app. 
 
->Markdown block quote test
->Markdown bloack quotes test
-
-*Markdown list **Element 1**[element1]
-*Markdown list <div id="element2">Element 2</div>
-
-User <code> mvn install </code> to build the project and <code> java -jar <APPLICATION> </code> to run the app. 
-- - - 
-
-[element1]: git.netex.ro "Our github!"
 
